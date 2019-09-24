@@ -1,0 +1,6 @@
+cd desktop
+mkdir MH8811_02
+cd MH8811_02
+mkdir my file
+cd C:\users/Zhicheng/Desktop
+rm -rf MH8811_02
